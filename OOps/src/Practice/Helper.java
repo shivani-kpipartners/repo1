@@ -1,7 +1,7 @@
 package Practice;
 
 class Helper {
-	 //static keyword permits methods at class level: it is sharable across different classes
+	//static keyword permits methods at class level: it is sharable across different classes
     // Method with 2 integer parameters
 	//2*4
 	//2.3*3.2=6

@@ -1,7 +1,7 @@
 package com.oops.example;
 
 public class Car extends Vehicle{
-
+	
 	@Override
 	char model_name() {
 		// TODO Auto-generated method stub
@@ -32,4 +32,5 @@ public class Car extends Vehicle{
 		return 0;
 	}
 
+	
 }
