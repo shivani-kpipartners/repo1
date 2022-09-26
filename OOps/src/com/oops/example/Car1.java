@@ -8,9 +8,21 @@ public class Car1 extends Car{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-Car Maruti=new Car();
+Car Maruti=new Car1();
 Maruti.mileage();
 Maruti.brand();
+	}
+
+	@Override
+	int speed() {
+		// TODO Auto-generated method stub
+		return 20;
+	}
+
+	@Override
+	String brand_1() {
+		// TODO Auto-generated method stub
+		return "TATA";
 	}
 
 }

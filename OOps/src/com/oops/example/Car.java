@@ -1,9 +1,12 @@
 package com.oops.example;
 
-public class Car extends Vehicle{
-	
+public abstract class Car extends Vehicle{
+
+	abstract int speed();
+	abstract String brand_1();
 	@Override
 	char model_name() {
+		
 		// TODO Auto-generated method stub
 		return 0;
 	}
@@ -32,5 +35,4 @@ public class Car extends Vehicle{
 		return 0;
 	}
 
-	
 }
