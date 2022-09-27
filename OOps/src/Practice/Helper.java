@@ -1,6 +1,6 @@
 package Practice;
 
-class Helper {
+public abstract class Helper {
 	//static keyword permits methods at class level: it is sharable across different classes
     // Method with 2 integer parameters
 	//2*4
@@ -28,7 +28,7 @@ class Helper {
  
 // Class 2
 // Main class
-class Polymorphism {
+class Polymorphism extends Helper{
  
     // Main driver method
     public static void main(String[] args)
