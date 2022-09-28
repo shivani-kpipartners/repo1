@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class Overload {
 
@@ -13,6 +13,6 @@ public class Overload {
 	public static void display(int x)   
 	{   
 	System.out.println("Overloaded static method");   
-}
+	}}
 
 
