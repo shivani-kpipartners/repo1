@@ -4,3 +4,4 @@ interface FunctionalInterface {
 	   void display();
 	}
 	
+ 
