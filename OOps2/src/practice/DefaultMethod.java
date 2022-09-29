@@ -9,3 +9,4 @@ public class DefaultMethod implements SumInterface {
 	}
 
 }
+ 

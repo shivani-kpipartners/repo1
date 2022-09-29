@@ -19,3 +19,4 @@ class Bike2 extends Vehicle{
 	  }  
 	  
 }
+ 

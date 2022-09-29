@@ -23,6 +23,6 @@ public static void main(String args[])
 c.sum(5,9);
 	
 c.cube(5);
-}
+} 
 }
 
